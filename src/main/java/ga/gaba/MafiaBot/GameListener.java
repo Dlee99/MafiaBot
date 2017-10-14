@@ -9,7 +9,7 @@ import net.dv8tion.jda.core.hooks.ListenerAdapter;
 /**
  * Created by glyczak on 10/14/17.
  */
-public class GameListner extends ListenerAdapter {
+public class GameListener extends ListenerAdapter {
     private static boolean gameSetupInProgress = false;
     private static Game game;
 

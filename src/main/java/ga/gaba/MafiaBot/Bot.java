@@ -14,6 +14,6 @@ public class Bot {
     public static void main(String[] args) throws Exception
     {
         api = new JDABuilder(AccountType.BOT).setToken(token).buildAsync();
-        api.addEventListener(new GameListner());
+        api.addEventListener(new GameListener());
     }
 }

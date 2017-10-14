@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MafiaBot.iml" filepath="$PROJECT_DIR$/.idea/modules/MafiaBot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MafiaBot_main.iml" filepath="$PROJECT_DIR$/.idea/modules/MafiaBot_main.iml" group="MafiaBot" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MafiaBot_test.iml" filepath="$PROJECT_DIR$/.idea/modules/MafiaBot_test.iml" group="MafiaBot" />
+    </modules>
+  </component>
+</project>
